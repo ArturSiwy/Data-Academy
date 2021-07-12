@@ -1,2 +1,0 @@
-# Data-Academy
- Home Learning
